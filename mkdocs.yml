@@ -1,0 +1,16 @@
+site_name: Ana Clara
+site_url: https://anaclara.com/
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: purple
+      toggle:
+        icon: material/weather-night
+        name: night
+    - scheme: default
+      primary: pink
+      toggle:
+        icon: material/weather-sunny
+        name: day
+
